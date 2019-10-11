@@ -33,6 +33,7 @@
   - [Challenges](#challenges)
   - [Free Tools For Students](#free-tools-for-students)
   - [YouTubeVideos](#youtubevideos)
+  - [Test](CONTRIBUTING.md)
 
 ---
 

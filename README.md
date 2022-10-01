@@ -82,8 +82,9 @@
 - [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on: C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub.
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only**
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
-- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on: jQuery, JavaScript, React, Math, Science, Software Engineering, Open source software
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skills.
+- [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) - Tutorials with project-based coaching - practical development experience with advanced React projects.
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
